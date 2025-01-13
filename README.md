@@ -1,6 +1,6 @@
 # 🚀 Financial RAG Chatbot
 
-Welcome to the **Production-Grade Financial RAG Chatbot**! This project is designed to provide accurate, context-aware financial advice and information using Retrieval-Augmented Generation (RAG) technology. Whether you're a developer, financial analyst, or just curious about AI, this chatbot is here to help! 💼🤖
+Welcome to the **Financial RAG Chatbot**! This project is designed to provide accurate, context-aware financial advice and information using Retrieval-Augmented Generation (RAG) technology. Whether you're a developer, financial analyst, or just curious about AI, this chatbot is here to help! 💼🤖
 
 ---
 
