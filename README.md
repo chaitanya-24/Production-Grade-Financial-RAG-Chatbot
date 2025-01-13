@@ -75,16 +75,6 @@ Open your browser and navigate to `http://localhost:5000` to interact with the c
 
 ---
 
-## 🤝 **Contributing**
-We welcome contributions! If you'd like to contribute, please follow these steps:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/YourFeatureName`).
-3. Commit your changes (`git commit -m 'Add some feature'`).
-4. Push to the branch (`git push origin feature/YourFeatureName`).
-5. Open a pull request.
-
----
-
 ## 📞 **Contact**
 Have questions or suggestions? Feel free to reach out:
 - **Email**: chaitanya.aiwork@gmail.com
