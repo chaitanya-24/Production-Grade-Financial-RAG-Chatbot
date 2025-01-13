@@ -17,7 +17,7 @@ Welcome to the **Financial RAG Chatbot**! This project is designed to provide ac
 ## 📂 **Project Structure**
 
 ```plaintext
-chaitanya-24-Production-Grade-Financial-RAG-Chatbot/
+Production-Grade-Financial-RAG-Chatbot/
 ├── README.md
 ├── main.py
 ├── requirements.txt
@@ -41,8 +41,8 @@ chaitanya-24-Production-Grade-Financial-RAG-Chatbot/
 
 ### 1. **Clone the Repository**
 ```bash
-git clone https://github.com/your-username/chaitanya-24-Production-Grade-Financial-RAG-Chatbot.git
-cd chaitanya-24-Production-Grade-Financial-RAG-Chatbot
+git clone https://github.com/your-username/Production-Grade-Financial-RAG-Chatbot.git
+cd Production-Grade-Financial-RAG-Chatbot
 ```
 
 ### 2. **Install Dependencies**
